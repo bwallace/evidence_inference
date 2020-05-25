@@ -4,7 +4,7 @@ title: Project page
 tagline: NSF CAREER Award 1750978
 ---
 
-### Automatically inferring treatment effects from reports of RCTs
+#### Automatically inferring treatment effects from reports of Randomized Controlled Trials (RCTs)
 
 This material is based upon work supported by the National Science Foundation (NSF) under [Grant No 1750978: "CAREER: Structured Scientific Evidence Extraction: Models and Corpora"](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1750978).
 
