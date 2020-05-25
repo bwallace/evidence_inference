@@ -1,5 +1,5 @@
 ---
 layout: page
 title: Structured evidence extraction
-tagline: Official page for NSF CAREER Award 1750978
+tagline: NSF CAREER Award 1750978
 ---
