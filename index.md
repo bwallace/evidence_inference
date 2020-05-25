@@ -1,5 +1,7 @@
 ---
 layout: page
-title: Structured evidence extraction
+title: Project page
 tagline: NSF CAREER Award 1750978
 ---
+
+# Hello world
