@@ -4,13 +4,18 @@ title: Project page
 tagline: NSF CAREER Award 1750978
 ---
 
-## Automatically inferring treatment effects from reports of RCTs
+### Automatically inferring treatment effects from reports of RCTs
+
+This material is based upon work supported by the National Science Foundation (NSF) under Grant No 1750978: https://www.nsf.gov/awardsearch/showAward?AWD_ID=1750978, "CAREER: Structured Scientific Evidence Extraction: Models and Corpora".
+
+Disclaimer: Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
+
+Project duration (expected): 7/1/2018 -- 6/30/2023.
+
+Project PI: [Byron Wallace](http://www.byronwallace.com).
 
 
-- [Overview](pages/overview.html)
-- [Making an independent website](pages/independent_site.html)
-- [Making a personal site](pages/user_site.html)
-- [Making a site for a project](pages/project_site.html)
-- [Making a jekyll-free site](pages/nojekyll.html)
-- [Testing your site locally](pages/local_test.html)
-- [Resources](pages/resources.html)
+- [Data](pages/overview.html)
+- [Publications](pages/independent_site.html)
+- [People](pages/user_site.html)
+
