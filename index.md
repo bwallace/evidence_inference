@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Project page: Structured evidence extraction
-tagline: Machine reading of clinical trials literature
+title: simple site
+tagline: Easy websites with GitHub Pages
 ---
-
