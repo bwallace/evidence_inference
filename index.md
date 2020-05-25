@@ -20,7 +20,7 @@ Project PI: [Byron Wallace](http://www.byronwallace.com).
 **Research challenges** Designing and training models to make sense of the findings reported in clinical trials requires core technical innovations to realize models that can jointly extract entities and infer relationships between them over lengthy technical articles, and new corpora with which to train and evaluate them. Further, this problem necessitates models that provide explicit *support* for predictions, i.e., "rationales". In this project we seek to address both the application (models to extract structured evidence from the trials literature) and the underlying methodological challenges (more transparent neural NLP models that can rationalize outputs). 
 
 
-- [Publications & Outputs](pages/independent_site.html)
+- [Publications & Outputs](pages/outputs.html)
 - [Corpora](http://evidence-inference.ebm-nlp.com/)
 - [Students & Collaborators](pages/user_site.html)
 - [Broader Impacts](pages/broader_impacts.html)
