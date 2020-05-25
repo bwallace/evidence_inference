@@ -1,5 +1,5 @@
 ---
-layout: page
-title: simple site
-tagline: Easy websites with GitHub Pages
+layout: xt
+title: asfasdf
+tagline: asdfasdfasdfae
 ---
