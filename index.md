@@ -22,7 +22,7 @@ Project PI: [Byron Wallace](http://www.byronwallace.com).
 
 - [Publications & Outputs](pages/outputs.html)
 - [Corpora](http://evidence-inference.ebm-nlp.com/)
-- [Students & Collaborators](pages/user_site.html)
+- [Students & Collaborators](pages/students.html)
 - [Broader Impacts](pages/broader_impacts.html)
 
 
