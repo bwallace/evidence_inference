@@ -21,11 +21,9 @@ tagline: NSF CAREER Award 1750978
 
 ## Blog posts, &etc.
 
-* Here is the [Evidence Inference](http://evidence-inference.ebm-nlp.com/) dataset website, which allows one to browse and download the collected data. We also provide pointers to starter code to begin working with the data and on the task.
+* Here is the [Evidence Inference dataset/task website](http://evidence-inference.ebm-nlp.com/), which allows one to browse and download the collected data. We also provide pointers to starter code to begin working with the data and on the task, which is available in our [GitHub repository](https://github.com/jayded/evidence-inference).
 
 * Here is a [blog post](http://evidence-inference.ebm-nlp.com/blog/) describing the Evidence Inference task, and our initial models.
-
-* Source code and data for the evidence inference task is available via GitHub: https://github.com/jayded/evidence-inference.
 
 * Here is the website for the ERASER benchmark, which includes the Evidence Inference corpus and other datasets for which targets are accompanied by supporting snippets (rationales): [http://www.eraserbenchmark.com/](http://www.eraserbenchmark.com/)
 
