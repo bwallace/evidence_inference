@@ -22,4 +22,4 @@ He has co-authored multiple publications relating to this work, and the project 
 
 Finally, Joshua Oquendo --- an undergraduate student at nearby Roxbury Community College --- worked on this project as an REU over the summer in 2019, culminating his presenting the work at an RCC event. 
 
-<img src="../images/joshua.jpg" alt="Joshua presenting his research at an RCC event with the PI" class="inline"/>
+<img src="../images/joshua-sm.jpg" alt="Joshua presenting his research at an RCC event with the PI" class="inline"/>
