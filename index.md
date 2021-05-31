@@ -26,5 +26,5 @@ Project PI: [Byron Wallace](http://www.byronwallace.com).
 - [Broader Impacts](pages/broader_impacts.html)
 
 
-*This page last updated: 5/25/2020; please contact Byron Wallace with any questions.*
+*This page last updated: 5/31/2021; please contact Byron Wallace (b.wallace@northeastern.edu) with any questions.*
  

@@ -7,6 +7,10 @@ tagline: NSF CAREER Award 1750978
 
 ## Publications
 
+* <i>[Understanding Clinical Trial Reports: Extracting Medical Entities and Their Relations](https://arxiv.org/abs/2010.03550). Benjamin E. Nye, Jay DeYoung, Eric Lehman, Ani Nenkova, Iain J. Marshall, and Byron C. Wallace, 2021.
+
+* <i>[Trialstreamer: a living, automatically updated database of clinical trial reports](https://www.medrxiv.org/content/10.1101/2020.05.15.20103044v1). Iain J. Marshall, Benjamin Nye, Joël Kuiper, Anna Noel-Storr, Rachel Marshall, Rory Maclean, Frank Soboczenski, Ani Nenkova, James Thomas, and Byron C. Wallace.
+
 * <i>[Evidence Inference 2.0: More Data, Better Models](https://arxiv.org/abs/2005.04177)</i>. Jay DeYoung, Eric Lehman, Iain J. Marshall, and Byron C. Wallace. Proceedings of BioNLP (co-located with ACL), 2020. 
 
 * <i>[Semi-Automating Knowledge Base Construction for Cancer Genetics](https://arxiv.org/abs/2005.08146)</i>. Somin Wadhwa, Kanhua Yin, Kevin S. Hughes, and Byron C. Wallace. Proceedings of Automated Knowledge Base Construction (AKBC), 2020.
@@ -20,6 +24,8 @@ tagline: NSF CAREER Award 1750978
 * <i>[Inferring Which Medical Treatments Work from Reports of Clinical Trials](https://arxiv.org/abs/1904.01606)</i>. Eric Lehman, Jay DeYoung, Regina Barzilay, and Byron C. Wallace. Proceedings of the North American Chapter of the Association for Computational Linguistics (NAACL), 2019. 
 
 ## Blog posts, &etc.
+
+* All predictions from our trained evidence-inference model (for all trial reports in PubMed) are available in the Trialstreamer database: https://trialstreamer.robotreviewer.net/.
 
 * Here is the [Evidence Inference dataset/task website](http://evidence-inference.ebm-nlp.com/), which allows one to browse and download the collected data. We also provide pointers to starter code to begin working with the data and on the task, which is available in our [GitHub repository](https://github.com/jayded/evidence-inference).
 
