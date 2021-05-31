@@ -7,9 +7,9 @@ tagline: NSF CAREER Award 1750978
 
 ## Publications
 
-* <i>[Understanding Clinical Trial Reports: Extracting Medical Entities and Their Relations](https://arxiv.org/abs/2010.03550). Benjamin E. Nye, Jay DeYoung, Eric Lehman, Ani Nenkova, Iain J. Marshall, and Byron C. Wallace, 2021.
+* <i>[Understanding Clinical Trial Reports: Extracting Medical Entities and Their Relations](https://arxiv.org/abs/2010.03550). Benjamin E. Nye, Jay DeYoung, Eric Lehman, Ani Nenkova, Iain J. Marshall, and Byron C. Wallace. AMIA Virtual Informatics Summit, 2021. <b>Best Student-led Paper</b>: <a href="https://www.amia.org/summit2021/award-winners">https://www.amia.org/summit2021/award-winners</a>.
 
-* <i>[Trialstreamer: a living, automatically updated database of clinical trial reports](https://www.medrxiv.org/content/10.1101/2020.05.15.20103044v1). Iain J. Marshall, Benjamin Nye, Joël Kuiper, Anna Noel-Storr, Rachel Marshall, Rory Maclean, Frank Soboczenski, Ani Nenkova, James Thomas, and Byron C. Wallace.
+* <i>[Trialstreamer: a living, automatically updated database of clinical trial reports](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7727361/). Iain J. Marshall, Benjamin Nye, Joël Kuiper, Anna Noel-Storr, Rachel Marshall, Rory Maclean, Frank Soboczenski, Ani Nenkova, James Thomas, and Byron C. Wallace. Journal of the American Medical Informatics Association, 2020.
 
 * <i>[Evidence Inference 2.0: More Data, Better Models](https://arxiv.org/abs/2005.04177)</i>. Jay DeYoung, Eric Lehman, Iain J. Marshall, and Byron C. Wallace. Proceedings of BioNLP (co-located with ACL), 2020. 
 
