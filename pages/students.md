@@ -4,17 +4,19 @@ title: Students & collaborators
 tagline: NSF CAREER Award 1750978
 ---
 
-### Students Directly Supported by this Grant
+### Students Directly Supported by this Grant (Current & Past)
+
+- [Benjamin Nye](https://www.khoury.northeastern.edu/people/benjamin-nye/). PhD student in Khoury College of Computer Sciences at Northeastern.
 
 - [Jay DeYoung](https://www.khoury.northeastern.edu/people/jay-deyoung/). PhD student in Khoury College of Computer Sciences at Northeastern.
 
-- [Eric Lehman](https://www.linkedin.com/in/eric-lehman-51b1419b). Undergraduate at Khoury; now joining MIT as a PhD student in fall 2020. 
+- [Chantal Shaib](https://www.khoury.northeastern.edu/people/chantal-shaib/). PhD student in Khoury College of Computer Sciences at Northeastern.
 
-- Joshua Oquendo. Undergraduate at Roxbury Community College.
+- [Eric Lehman](https://www.linkedin.com/in/eric-lehman-51b1419b). Supported as an REU while an undergraduate at Northeastern. Now at MIT as a PhD student (from fall 2020). Received an *honorable mention* for the CRA Oustanding Undergraduate Researcher Award: https://cra.org/2020-outstanding-undergraduate-researcher-award-recipients/.
+
+- Joshua Oquendo. Undergraduate at Roxbury Community College (RCC); supported as an REU.
 
 ### Other Collaborators
-
-- [Benjamin Nye](https://www.khoury.northeastern.edu/people/benjamin-nye/). PhD student in Khoury College of Computer Sciences at Northeastern.
 
 - [Sarthak Jain](https://www.khoury.northeastern.edu/people/sarthak-jain-2/). PhD student in Khoury College of Computer Sciences at Northeastern.
 
