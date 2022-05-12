@@ -24,7 +24,7 @@ tagline: NSF CAREER Award 1750978
 
 - [Ani Nenkova](https://www.cis.upenn.edu/~nenkova/). Associate Professor of Computer Science at UPenn. 
 
-
+- [Sameer Singh](https://sameersingh.org/). Associate Professor of Computer Science at UC Irvine. 
 
 
 
