@@ -7,9 +7,11 @@ tagline: NSF CAREER Award 1750978
 
 ## Publications
 
+* <i>[Combining Feature and Instance Attribution to Detect Artifacts](https://arxiv.org/abs/2107.00323). Pouya Pezeshkpour, Sarthak Jain, Sameer Singh, and Byron C. Wallace. Proceedings of the Association for Computational Linguistics (ACL): Findings, 2022. 
+  
 * <i>[Understanding Clinical Trial Reports: Extracting Medical Entities and Their Relations](https://arxiv.org/abs/2010.03550). Benjamin E. Nye, Jay DeYoung, Eric Lehman, Ani Nenkova, Iain J. Marshall, and Byron C. Wallace. AMIA Virtual Informatics Summit, 2021. <b>Best Student-led Paper</b>: <a href="https://www.amia.org/summit2021/award-winners">https://www.amia.org/summit2021/award-winners</a>.
 
-* <i>[Biomedical Interpretable Entity Representations]</i>. Diego Garcia-Olano, Yasumasa Onoe, Ioana Baldini, Joydeep Ghosh, Byron C. Wallace and Kush Varzney. Proceedings of the Association for Computational Linguistics (ACL): Findings, 2021.
+* <i>[Biomedical Interpretable Entity Representations](https://arxiv.org/abs/2106.09502)</i>. Diego Garcia-Olano, Yasumasa Onoe, Ioana Baldini, Joydeep Ghosh, Byron C. Wallace and Kush Varzney. Proceedings of the Association for Computational Linguistics (ACL): Findings, 2021.
 
 * <i>[Trialstreamer: a living, automatically updated database of clinical trial reports](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7727361/)</i>. Iain J. Marshall, Benjamin Nye, Joël Kuiper, Anna Noel-Storr, Rachel Marshall, Rory Maclean, Frank Soboczenski, Ani Nenkova, James Thomas, and Byron C. Wallace. Journal of the American Medical Informatics Association, 2020.
 
