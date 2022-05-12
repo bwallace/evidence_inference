@@ -15,7 +15,7 @@ Project duration (expected): 7/1/2018 -- 6/30/2023.
 
 Project PI: [Byron Wallace](http://www.byronwallace.com).
 
-**Project goals** We aim to design natural language processing (NLP) models that can "read" through clinical trial reports extract reported findings from these (i.e., which drugs actually work?). Such models, if successful, would allow domain experts (physicians, in this case) to harness the entirety of the published evidence base to inform treatment decisions, something not currently possible due to published evidence being predominantly unstructured.
+**Project goals** We aim to design natural language processing (NLP) models that can "read" through clinical trial reports extract reported findings from these (i.e., which drugs actually work?). Such models, if successful, would allow domain experts (physicians, in this case) to harness the entirety of the published evidence base to inform treatment decisions, something not currently possible due to published evidence being predominantly unstructured. Doing this in a way that will actually be uesful to domain experts requires varieties of *model interpretability*; so a methodological goal of this work is to design models that realize these.
 
 **Research challenges** Designing and training models to make sense of the findings reported in clinical trials requires core technical innovations to realize models that can jointly extract entities and infer relationships between them over lengthy technical articles, and new corpora with which to train and evaluate them. Further, this problem necessitates models that provide explicit *support* for predictions, i.e., "rationales". In this project we seek to address both the application (models to extract structured evidence from the trials literature) and the underlying methodological challenges (more transparent neural NLP models that can rationalize outputs). 
 
@@ -26,5 +26,5 @@ Project PI: [Byron Wallace](http://www.byronwallace.com).
 - [Broader Impacts](pages/broader_impacts.html)
 
 
-*This page last updated: 5/31/2021; please contact Byron Wallace (b.wallace@northeastern.edu) with any questions.*
+*This page last updated: 5/12/2022; please contact Byron Wallace (b.wallace@northeastern.edu) with any questions.*
  
