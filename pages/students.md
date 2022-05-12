@@ -12,7 +12,7 @@ tagline: NSF CAREER Award 1750978
 
 - [Chantal Shaib](https://www.khoury.northeastern.edu/people/chantal-shaib/). PhD student in Khoury College of Computer Sciences at Northeastern.
 
-- [Eric Lehman](https://www.linkedin.com/in/eric-lehman-51b1419b). Supported as an REU while an undergraduate at Northeastern. Now at MIT as a PhD student (from fall 2020). Received an *honorable mention* for the CRA Oustanding Undergraduate Researcher Award: https://cra.org/2020-outstanding-undergraduate-researcher-award-recipients/.
+- [Eric Lehman](https://www.linkedin.com/in/eric-lehman-51b1419b). Supported as an REU while an undergraduate at Northeastern. Now at MIT as a PhD student (from fall 2020). Received an *honorable mention* for the [CRA Oustanding Undergraduate Researcher Award](https://cra.org/2020-outstanding-undergraduate-researcher-award-recipients/).
 
 - Joshua Oquendo. Undergraduate at Roxbury Community College (RCC); supported as an REU.
 
