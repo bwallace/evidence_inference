@@ -7,7 +7,11 @@ tagline: NSF CAREER Award 1750978
 
 ## Publications
 
-* <i>[Combining Feature and Instance Attribution to Detect Artifacts](https://arxiv.org/abs/2107.00323). Pouya Pezeshkpour, Sarthak Jain, Sameer Singh, and Byron C. Wallace. Proceedings of the Association for Computational Linguistics (ACL): Findings, 2022. 
+* <i>[RedHOT: A Corpus of Annotated Medical Questions, Experiences, and Claims on Social Media](https://arxiv.org/abs/2210.06331)</i>. Somin Wadhwa, Vivek Khetan, Silvio Amir, and Byron C. Wallace. Proceedings of the European Chapter of the Association for Computational Linguistics (EACL): Findings, 2023. 
+  
+* <i>[Automatically Summarizing Evidence from Clinical Trials: A Prototype Highlighting Current Challenges](https://arxiv.org/abs/2210.06331)</i>. Sanjana Ramprasad, Denis Jered McInerney, Iain J. Marshall, and Byron C. Wallace. Proceedings of the European Chapter of the Association for Computational Linguistics (EACL): Demonstrations, 2023.
+
+* <i>[Combining Feature and Instance Attribution to Detect Artifacts](https://arxiv.org/abs/2107.00323)</i>. Pouya Pezeshkpour, Sarthak Jain, Sameer Singh, and Byron C. Wallace. Proceedings of the Association for Computational Linguistics (ACL): Findings, 2022. 
   
 * <i>[Understanding Clinical Trial Reports: Extracting Medical Entities and Their Relations](https://arxiv.org/abs/2010.03550). Benjamin E. Nye, Jay DeYoung, Eric Lehman, Ani Nenkova, Iain J. Marshall, and Byron C. Wallace. AMIA Virtual Informatics Summit, 2021. <b>Best Student-led Paper</b>: <a href="https://www.amia.org/summit2021/award-winners">https://www.amia.org/summit2021/award-winners</a>.
 
