@@ -7,6 +7,8 @@ tagline: NSF CAREER Award 1750978
 
 ## Publications
 
+* <i>[Overview of MSLR2022: A Shared Task on Multi-document Summarization for Literature Reviews](https://aclanthology.org/2022.sdp-1.20/)</i>. Proceedings of the Third Workshop on Scholarly Document Processing at International Conference on Computational Linguistics (COLING), 2023. 
+
 * <i>[RedHOT: A Corpus of Annotated Medical Questions, Experiences, and Claims on Social Media](https://arxiv.org/abs/2210.06331)</i>. Somin Wadhwa, Vivek Khetan, Silvio Amir, and Byron C. Wallace. Proceedings of the European Chapter of the Association for Computational Linguistics (EACL): Findings, 2023. 
   
 * <i>[Automatically Summarizing Evidence from Clinical Trials: A Prototype Highlighting Current Challenges](https://arxiv.org/abs/2210.06331)</i>. Sanjana Ramprasad, Denis Jered McInerney, Iain J. Marshall, and Byron C. Wallace. Proceedings of the European Chapter of the Association for Computational Linguistics (EACL): Demonstrations, 2023.
