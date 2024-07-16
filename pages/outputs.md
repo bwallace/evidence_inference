@@ -7,6 +7,20 @@ tagline: NSF CAREER Award 1750978
 
 ## Publications
 
+* <i>[On-the-fly Definition Augmentation of LLMs for Biomedical NER](https://openreview.net/forum?id=wLmXn6J9Id0)</i>. Monica_Munnangi, Sergey Feldman, Byron C Wallace, Silvio Amir, Tom Hope and Aakanksha Naik. Proceedings of the North Americal Chapter of the Association for Computational Linguistics (NAACL), 2024.
+  
+* <i>[Infolossqa: Characterizing and recovering information loss in text simplification](https://arxiv.org/abs/2401.16475)</i>. Jan Trienes, Sebastian Joseph, Jörg Schlötterer, Christin Seifert, Kyle Lo, Wei Xu, Byron C Wallace, and Junyi Jessy Li. Proceedings of the Association for Computational Linguistics (ACL), 2024.
+  
+* <i>[FactPICO: Factuality Evaluation for Plain Language Summarization of Medical Evidence](https://arxiv.org/abs/2402.11456)</i>. Sebastian Antony Joseph, Lily Chen, Jan Trienes, Hannah Louisa Göke, Monika Coers, Wei Xu, Byron C Wallace, and Junyi Jessy Li. Proceedings of the Association for Computational Linguistics (ACL), 2024. 
+
+* <i>[Automatically Extracting Numerical Results from Randomized Controlled Trials with Large Language Models](https://arxiv.org/abs/2405.01686)</i>. Hye Sun Yun, Iain J. Marshall, Thomas Trikalinos and Byron C. Wallace. Proceedings of Machine Learning for Healthcare (MLHC), 2024. 
+
+* <i>[Jointly Extracting Interventions, Outcomes, and Findings from RCT Reports with LLMs](https://arxiv.org/abs/2305.03642)</i>. Somin Wadhwa, Jay DeYoung, Benjamin Nye, Silvio Amir, and Byron C. Wallace. Proceedings of Machine Learning for Healthcare (MLHC), 2023.
+
+* <i>[Appraising the Potential Uses and Harms of LLMs for Medical Systematic Reviews](https://arxiv.org/abs/2305.11828)</i>. Hye Sun Yun, Iain J. Marshall, Thomas Trikalinos and Byron C. Wallace. Proceedings of Empirical Methods in Natural Language Processing (EMNLP), 2024.
+ 
+* <i>[Revisiting Relation Extraction in the era of Large Language Models](https://arxiv.org/abs/2305.05003)</i>. Somin Wadhwa, Silvio Amir and Byron C. Wallace. Proceedings of the Association for Computational Linguistics (ACL), 2023. 
+ 
 * <i>[Overview of MSLR2022: A Shared Task on Multi-document Summarization for Literature Reviews](https://aclanthology.org/2022.sdp-1.20/)</i>. Proceedings of the Third Workshop on Scholarly Document Processing at International Conference on Computational Linguistics (COLING), 2023. 
 
 * <i>[RedHOT: A Corpus of Annotated Medical Questions, Experiences, and Claims on Social Media](https://arxiv.org/abs/2210.06331)</i>. Somin Wadhwa, Vivek Khetan, Silvio Amir, and Byron C. Wallace. Proceedings of the European Chapter of the Association for Computational Linguistics (EACL): Findings, 2023. 
@@ -35,7 +49,7 @@ tagline: NSF CAREER Award 1750978
 
 ## Blog posts, &etc.
 
-* All predictions from our trained evidence-inference model (for all trial reports in PubMed) are available in the Trialstreamer database: https://trialstreamer.robotreviewer.net/.
+* All predictions from our trained evidence-inference model (for all trial reports in PubMed) are available in the Trialstreamer database: [https://trialstreamer.robotreviewer.net/](https://trialstreamer.ieai.robotreviewer.net/).
 
 * Here is the [Evidence Inference dataset/task website](http://evidence-inference.ebm-nlp.com/), which allows one to browse and download the collected data. We also provide pointers to starter code to begin working with the data and on the task, which is available in our [GitHub repository](https://github.com/jayded/evidence-inference).
 
